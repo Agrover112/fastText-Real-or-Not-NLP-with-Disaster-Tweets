@@ -20,7 +20,7 @@
 
 
  # Note:
- Above task can be completed using TFIDF,SVM,BERT,GloVE,LSTM,etc but training time is really high.
+ Above task can be completed using *TFIDF,SVM,BERT,GloVE,LSTM,* etc but training time is really high and may require strong GPU.
  ## Essential Reads:
 - [PythonDocs](https://fasttext.cc/docs/en/python-module.html)
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
