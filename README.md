@@ -27,3 +27,4 @@
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 - [Open-sourcing hyperparameter autotuning for fastText](https://ai.facebook.com/blog/fasttext-blog-post-open-source-in-brief/)
 - [English word vectors](https://fasttext.cc/docs/en/english-vectors.html)
+- [Original Paper Presentation](https://www.youtube.com/watch?v=tGQKjJQt7oQ&feature=share&fbclid=IwAR2KT5UL70PhcH7pqHkmUWkQWUGvN888JmiWr_ztbMxOHQIwM7YjjjzJ6Fg)
